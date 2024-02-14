@@ -1,0 +1,109 @@
+html {
+    background: url(Images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    text-align: center;
+    background-color: whitesmoke;
+    width: 1000px;
+    margin: 20px auto;
+    padding: 20px 10px;
+    border: 25px solid skyblue;
+    border-radius: 50px;
+}
+
+#sonic:hover {
+    border: 5px solid cyan;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+#roads:hover {
+    border: 5px solid burlywood;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+img {
+    height: 300px;
+}
+
+hr {
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+#sonic {
+    width: 500px;
+    margin: 10px auto;
+    font-size: 20px;
+}
+
+#roads {
+    width: 500px;
+    margin: 10px auto;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.head1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: blueviolet;
+}
+
+.head1:hover {
+    background-color: lightslategray;
+    color: rebeccapurple;
+}
+
+#kangaroo:hover {
+    border: 5px solid orange;
+    border-radius: 50px;
+}
+
+#office:hover {
+    border: 5px solid skyblue;
+    border-radius: 50px;
+}
+
+#assembly:hover {
+    border: 5px solid goldenrod;
+    border-radius: 50px;
+}
+#brawl:hover {
+    border: 5px solid darkblue;
+    border-radius: 50px;
+}
+
+#gd:hover {
+    border: 5px solid darkred;
+    border-radius: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: teal;
+}
+
+h2:hover {
+    background-color: lightslategray;
+    color: cyan;
+}
+
+.para {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightslategray;
+}
+
+.para:hover {
+    background-color: rgba(153, 153, 153, 0.445);
+    color: black;
+}
